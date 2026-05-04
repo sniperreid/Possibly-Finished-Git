@@ -1,5 +1,7 @@
 local module = {
-	c = "breh"
+	c = "breh",
+	d = "bruh",
+	e = "bri!"
 }
 
 return module
