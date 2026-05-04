@@ -1,3 +1,5 @@
-local module = {}
+local module = {
+	imUnique = false
+}
 
 return module
