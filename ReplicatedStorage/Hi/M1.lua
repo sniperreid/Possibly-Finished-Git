@@ -1,3 +1,5 @@
-local module = {}
+local module = {
+	b = "bye"
+}
 
 return module
